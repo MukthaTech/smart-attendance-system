@@ -1,2 +1,2 @@
 # smart-attendance-system
-Face recognition-based attendence system using Flask
+This repo is for our Smart Attendance System Project.
